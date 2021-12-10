@@ -248,7 +248,7 @@
     h3 {
       font-size: 32px;
       line-height: 45.5px;
-      margin-bottom: 51px;
+      margin-bottom: 53px;
     }
   }
   .calc-savings__list {
@@ -281,7 +281,8 @@
       }
 
       &:nth-child(3) {
-        width: 293px;
+        width: 287px;
+        margin-left: 5px;
 
         img {
           width: 111px;
@@ -289,7 +290,8 @@
         }
 
         p {
-          margin-top: 10px;
+          margin-top: 9px;
+
         }
       }
 
@@ -299,6 +301,7 @@
 
       > p {
         margin: 18px 0 0;
+        letter-spacing: -0.01px;
       }
     }
   }
@@ -319,7 +322,7 @@
     margin-top: -2хч;
   }
   .form-calc-container {
-    margin-top: 20px;
+    margin-top: 24px;
     width: 100%;
   }
 
@@ -327,7 +330,7 @@
     display: none;
   }
   .calc-cont__img {
-    padding: 0 29px;
+    padding: 0 30px;
     box-sizing: border-box;
     margin: 0 0 51px 0;
     width: 100%;
